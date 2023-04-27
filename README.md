@@ -1,10 +1,16 @@
 # M720Q-Hackintosh-Ventura
 联想M720Q小主机Ventura 13.3.1
+
 处理器：i9-9900T ES
+
 主板：联想312D (B360芯片组)
+
 硬盘：长城 GW3500 512G
+
 内存：光威 DDR4 2666 16G x2
+
 显卡：UHD 630
+
 无线网卡：AC9560
 
 
