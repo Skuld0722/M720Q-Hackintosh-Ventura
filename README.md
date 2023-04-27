@@ -16,7 +16,9 @@
 
 无线正常，蓝牙正常，投送无法测试应该是无法投送。
 小主机自配的TYPE-C接口视频也能4K输出正常，USB口目前测试也正常。
+
 其他亲自己生成GenSMBIOS。即可正常使用。目前使用半月无明显BUG。
+
 ![1.png](https://github.com/Skuld0722/M720Q-Hackintosh-Ventura/blob/main/1.png?raw=true)
 ![2.png](https://github.com/Skuld0722/M720Q-Hackintosh-Ventura/blob/main/2.png?raw=true)
 ![3.png](https://github.com/Skuld0722/M720Q-Hackintosh-Ventura/blob/main/3.png?raw=true)
