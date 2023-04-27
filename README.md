@@ -18,3 +18,4 @@
 小主机自配的TYPE-C接口视频也能4K输出正常，USB口目前测试也正常。
 其他亲自己生成GenSMBIOS。即可正常使用。目前使用半月无明显BUG。
 ![1.png](https://github.com/Skuld0722/M720Q-Hackintosh-Ventura/edit/main/README.md#:~:text=1.-,png,-2.png)
+![2.png](https://github.com/Skuld0722/M720Q-Hackintosh-Ventura/blob/main/2.png?raw=true)
